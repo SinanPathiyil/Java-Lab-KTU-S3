@@ -1,4 +1,4 @@
 # Java Lab Experiments
 
-This repository contains Java lab experiments in PDF format, each including their respective outputs.
+This repository contains KTU S3 Java lab (OBJECT ORIENTED PROGRAMMING) experiments in PDF format, each including their respective outputs.
 
